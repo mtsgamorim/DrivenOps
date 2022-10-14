@@ -1,3 +1,4 @@
+version: "3"
 services:
   postgres_drivenops_db:
     image: postgres
